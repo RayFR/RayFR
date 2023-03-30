@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayFR
-- 👀 I’m interested in pygame and learning new programming languages
-- 🌱 I’m currently learning pygame and soon c#/unity
-- 💞️ I’m looking to collaborate on a new game jam
+- 👀 I’m interested in programming languages like C++, C#, and Python
+- 🌱 I’m currently learning pygame and C++/UE5
+- 💞️ I’m currently developing a game
 - 📫 How to reach me through my e-mail: frcrump87@gmail.com 
 
 <!---
