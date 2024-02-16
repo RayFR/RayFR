@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages like C++, C#, and Python
 - 🌱 I’m currently learning pygame and C++/UE5
 - 💞️ I’m currently developing a game
-- 📫 How to reach me through my e-mail: frcrump87@gmail.com 
+- 📫 How to reach me through my e-mail: fredc.dev@gmail.com
 
 <!---
 RayFR/RayFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
