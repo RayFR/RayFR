@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C, Godot, and further Web Development**
 
-- 👨‍💻 All of my projects are available at [freddiecrumpton.com]([freddiecrumpton.com](https://www.freddiecrumpton.com/))
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.freddiecrumpton.com)
 
-- 📄 Know about my experiences [https://www.freddiecrumpton.com/CV.pdf](https://www.freddiecrumpton.com/CV.pdf)
+- 📄 Know about my experiences from my [Resume](https://www.freddiecrumpton.com/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
